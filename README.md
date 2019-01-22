@@ -1,6 +1,7 @@
 'New York Tweets' is a single-page app I built that visualises data on tweets in New York in real-time.
 
 Link: https://gulikholmatova.github.io/new-york-tweets/
+
 Instructions:
 If the link above is now showing the data being updated live, please, follow these steps:
 
