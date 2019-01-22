@@ -1,0 +1,7 @@
+/backend/node_modules
+/backend/secrets.js
+
+/backend/api/server.cert
+/backend/api/server.key
+
+/frontend/node_modules
